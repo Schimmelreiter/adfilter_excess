@@ -1,3 +1,2 @@
 # [akamaihd.net]
 127.0.0.1 appnext-a.akamaihd.net
-127.0.0.1 ds-aksb-a.akamaihd.net
