@@ -1,9 +1,3 @@
-# [akamaihd.net]
-127.0.0.1 appnext-a.akamaihd.net
-127.0.0.1 cloudads-a.akamaihd.net
-127.0.0.1 ds-aksb-a.akamaihd.net
-127.0.0.1 inmobisdk-a.akamaihd.net
-127.0.0.1 ksdk-vh.akamaihd.net
-127.0.0.1 sdkjustad-a.akamaihd.net
-127.0.0.1 supersonicads-a.akamaihd.net
-127.0.0.1 wtanalytics-a.akamaihd.net
+# welt.de
+127.0.0.1 flo.uri.sh
+127.0.0.1 weltsfclips-vh.akamaihd.net
