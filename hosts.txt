@@ -7,3 +7,5 @@
 127.0.0.1 ksdk-vh.akamaihd.net	
 127.0.0.1 wtanalytics-a.akamaihd.net
 127.0.0.1 sdkjustad-a.akamaihd.net
+127.0.0.1 cloudads-a.akamaihd.net
+127.0.0.1 supersonicads-a.akamaihd.net
